@@ -88,8 +88,8 @@ async def start(client: Client, message: Message):
                 InlineKeyboardButton("➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
             ],
             [
-                InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/herokufreecc"),
-                InlineKeyboardButton("ᴍᴀɪɴᴛᴀɪɴᴇʀ", url="https://t.me/iam_daxx"),
+                InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/iro_x_support"),
+                InlineKeyboardButton("ᴍᴀɪɴᴛᴀɪɴᴇʀ", url="https://t.me/shaeep43"),
             ],
             [
                 InlineKeyboardButton("ᴄᴏᴍᴍᴀɴᴅs", callback_data="help_")
